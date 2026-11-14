@@ -1,0 +1,8 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Godot generated these from an early CSV draft of the asset register.
+docs/ASSET_REGISTER.csv
+docs/ASSET_REGISTER.csv.import
+docs/ASSET_REGISTER.*.translation
